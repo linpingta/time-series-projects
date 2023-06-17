@@ -19,6 +19,8 @@ Summary of time-series doc / project
 
 [Prophet](https://facebook.github.io/prophet/) facebook prophet
 
+[LSTNet](https://github.com/laiguokun/LSTNet) LSTNet
+
 ## Paper
 
 [Forecasting High-Dimension Data](https://www.doc88.com/p-192198186842.html) Yahoo
@@ -27,7 +29,13 @@ Summary of time-series doc / project
 
 [Prophet](https://peerj.com/preprints/3190.pdf) Facebook
 
-[](https://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting.pdf) Amazon
+[Think-globally-act-locallly-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting](https://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting.pdf) Amazon
+
+[TRMF](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction.pdf)
+
+[LSTNet](https://www.joinquant.com/view/community/detail/e3e61c8215c113dc8aa459dd52ef6f5c)
+
+[large-scale-user-visits-understanding-and-forecasting-with-deep-spatial-tem](https://www.kdd.org/kdd2019/accepted-papers/view/large-scale-user-visits-understanding-and-forecasting-with-deep-spatial-tem)
 
 ## Book
 
