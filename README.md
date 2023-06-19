@@ -1,6 +1,10 @@
 # time-series-projects
 Summary of time-series doc / project
 
+[![GitHub stars](https://img.shields.io/github/stars/linpingta/time-series-projects.svg?style=social&label=Star)](https://github.com/linpingta/time-series-projects/stargazers)
+[![Fork](https://img.shields.io/badge/-Fork-green?logo=github&style=for-the-badge)](https://github.com/linpingta/time-series-projects/fork)
+[![Clone](https://img.shields.io/badge/Clone-HTTPS-blue.svg)](https://github.com/linpingta/time-series-projects.git)
+
 ## Competitions
 
 [kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic/blob/master/how_it_works.md) time series competition for web traffic
