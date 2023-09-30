@@ -28,7 +28,7 @@ Welcome to the Time Series Project! This repository serves as a curated director
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | [GitHub](https://github.com/blue-yonder/tsfresh) | Automated time series feature extraction. |
 | [LSTNet](https://github.com/laiguokun/LSTNet) | [GitHub](https://github.com/laiguokun/LSTNet) | A deep learning model for time series forecasting with convolutional and recurrent layers. |
 | [WaveNet](https://github.com/deepmind/wavenet) | [GitHub](https://github.com/deepmind/wavenet) | A deep generative model used for time series data, particularly in audio. |
-| [FiLM](https://github.com/tianzhou2011/FiLM/) | [GitHub](https://github.com/tianzhou2011/FiLM/) | A library for time series analysis (Please provide a brief description). |
+| [FiLM](https://github.com/tianzhou2011/FiLM/) | [GitHub](https://github.com/tianzhou2011/FiLM/) | FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting. |
 
 
 ## Time Series Libraries Global
@@ -41,8 +41,8 @@ Welcome to the Time Series Project! This repository serves as a curated director
 | [gluonts](https://github.com/awslabs/gluon-ts) | [GitHub](https://github.com/awslabs/gluon-ts) | Probabilistic time series forecasting library built on MXNet. |
 | [FastAI](https://github.com/fastai/fastai) | [GitHub](https://github.com/fastai/fastai) | A deep learning library that includes time series analysis capabilities. |
 | [aeon](https://github.com/aeon-toolkit/aeon) | [GitHub](https://github.com/aeon-toolkit/aeon) | Toolkit for time series analysis and forecasting. |
-| [Time-Series-Library](https://github.com/thuml/Time-Series-Library) | [GitHub](https://github.com/thuml/Time-Series-Library) | A comprehensive library for time series analysis and modeling (Please provide a brief description). |
-| [neuralforecast](https://github.com/Nixtla/neuralforecast) | [GitHub](https://github.com/Nixtla/neuralforecast) | A library for time series forecasting using neural networks (Please provide a brief description). |
+| [Time-Series-Library](https://github.com/thuml/Time-Series-Library) | [GitHub](https://github.com/thuml/Time-Series-Library) | A comprehensive library for time series analysis and modeling. |
+| [neuralforecast](https://github.com/Nixtla/neuralforecast) | [GitHub](https://github.com/Nixtla/neuralforecast) | A large collection of neural forecasting models focused on their usability, and robustness. |
 
 
 ## Time Series Research Papers
