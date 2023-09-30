@@ -1,47 +1,90 @@
-# time-series-projects
-Summary of time-series doc / project
+# Time Series Project
 
 [![GitHub stars](https://img.shields.io/github/stars/linpingta/time-series-projects.svg?style=social&label=Star)](https://github.com/linpingta/time-series-projects/stargazers)
 [![Fork](https://img.shields.io/badge/-Fork-green?logo=github&style=for-the-badge)](https://github.com/linpingta/time-series-projects/fork)
 [![Clone](https://img.shields.io/badge/Clone-HTTPS-blue.svg)](https://github.com/linpingta/time-series-projects.git)
 
-## Competitions
+Welcome to the Time Series Project! This repository serves as a curated directory for various resources related to time series analysis, including libraries, datasets, and research papers. Whether you are new to time series analysis or looking to explore further, you'll find valuable references here.
 
-[kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic/blob/master/how_it_works.md) time series competition for web traffic
+## Table of Contents
 
-[optiver-realized-volatility-prediction](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/discussion) time series competition for options
+- [Time Series Libraries Special](#time-series-libraries-special)
+- [Time Series Libraries Global](#time-series-libraries-global)
+- [Time Series Research Papers](#time-series-research-papers)
+- [Time Series Competitions](#time-series-competitions)
+- [Time Series Datasets](#time-series-datasets)
+- [Time Series Books](#time-series-books)
 
-## Projects
 
-[pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) pytorch time-series library
+## Time Series Libraries Special
 
-[gluonts](https://github.com/awslabs/gluonts) Amazone mxnet time-series library
+"Speical" means focus on some certain solutions for time series problem
 
-[FastAI](https://github.com/fastai/fastai) Base tool built based on Pytorch
+| Library Name | Repository Link | Description |
+|--------------|-----------------|-------------|
+| [pmdarima](https://github.com/alkaline-ml/pmdarima) | [GitHub](https://github.com/alkaline-ml/pmdarima) | Python wrapper for ARIMA modeling. |
+| [statsmodels](https://github.com/statsmodels/statsmodels) | [GitHub](https://github.com/statsmodels/statsmodels) | Python library for time series analysis and modeling. |
+| [Prophet](https://github.com/facebook/prophet) | [GitHub](https://github.com/facebook/prophet) | An open-source forecasting tool by Facebook for time series data. |
+| [tsfresh](https://github.com/blue-yonder/tsfresh) | [GitHub](https://github.com/blue-yonder/tsfresh) | Automated time series feature extraction. |
+| [LSTNet](https://github.com/laiguokun/LSTNet) | [GitHub](https://github.com/laiguokun/LSTNet) | A deep learning model for time series forecasting with convolutional and recurrent layers. |
+| [WaveNet](https://github.com/deepmind/wavenet) | [GitHub](https://github.com/deepmind/wavenet) | A deep generative model used for time series data, particularly in audio. |
+| [FiLM](https://github.com/tianzhou2011/FiLM/) | [GitHub](https://github.com/tianzhou2011/FiLM/) | A library for time series analysis (Please provide a brief description). |
 
-[tsfresh](https://github.com/blue-yonder/tsfresh) Auto feature extraction tools
 
-[Prophet](https://facebook.github.io/prophet/) facebook prophet
+## Time Series Libraries Global
 
-[LSTNet](https://github.com/laiguokun/LSTNet) LSTNet
+"Global" means solution with multi different directions
 
-## Paper
+| Library Name | Repository Link | Description |
+|--------------|-----------------|-------------|
+| [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting) | [GitHub](https://github.com/jdb78/pytorch-forecasting) | PyTorch-based library for time series forecasting. |
+| [gluonts](https://github.com/awslabs/gluon-ts) | [GitHub](https://github.com/awslabs/gluon-ts) | Probabilistic time series forecasting library built on MXNet. |
+| [FastAI](https://github.com/fastai/fastai) | [GitHub](https://github.com/fastai/fastai) | A deep learning library that includes time series analysis capabilities. |
+| [aeon](https://github.com/aeon-toolkit/aeon) | [GitHub](https://github.com/aeon-toolkit/aeon) | Toolkit for time series analysis and forecasting. |
+| [Time-Series-Library](https://github.com/thuml/Time-Series-Library) | [GitHub](https://github.com/thuml/Time-Series-Library) | A comprehensive library for time series analysis and modeling (Please provide a brief description). |
+| [neuralforecast](https://github.com/Nixtla/neuralforecast) | [GitHub](https://github.com/Nixtla/neuralforecast) | A library for time series forecasting using neural networks (Please provide a brief description). |
 
-[Forecasting High-Dimension Data](https://www.doc88.com/p-192198186842.html) Yahoo
 
-[DeepAR](https://arxiv.org/pdf/1704.04110.pdf)
+## Time Series Research Papers
 
-[Prophet](https://peerj.com/preprints/3190.pdf) Facebook
+| Paper Title | Paper Link | Description |
+|-------------|------------|-------------|
+| [Long Short-Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf) | [PDF](https://www.bioinf.jku.at/publications/older/2604.pdf) | The original LSTM paper by Hochreiter and Schmidhuber. |
+| [An Empirical Evaluation of Exponential Smoothing for Time Series Forecasting](https://www.jstor.org/stable/41419839) | [Link](https://www.jstor.org/stable/41419839) | Research on the effectiveness of exponential smoothing methods. |
+| [Forecasting with Dynamic Regression Models](https://robjhyndman.com/papers/1986c.pdf) | [PDF](https://robjhyndman.com/papers/1986c.pdf) | Introduction to dynamic regression models for time series forecasting. |
+| [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499) | [PDF](https://arxiv.org/abs/1609.03499) | WaveNet, a deep generative model used for time series data, particularly in audio. |
+| [TRMF: A Collaborative Filtering Approach with Temporal Regularized Matrix Factorization](https://www.cs.utexas.edu/~rofuyu/papers/tr-mf-nips.pdf) | [PDF](https://www.cs.utexas.edu/~rofuyu/papers/tr-mf-nips.pdf) | Temporal Regularized Matrix Factorization for time series prediction. |
+| [Time Series Anomaly Detection: A Survey](https://arxiv.org/abs/2009.08036) | [PDF](https://arxiv.org/abs/2009.08036) | A comprehensive survey of time series anomaly detection techniques. |
+| [Large-Scale User Visits Understanding and Forecasting with Deep Spatial-Temporal Decomposition](https://arxiv.org/abs/2007.09545) | [PDF](https://arxiv.org/abs/2007.09545) | A study on understanding and forecasting user visits using deep spatial-temporal decomposition. |
 
-[Think-globally-act-locallly-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting](https://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting.pdf) Amazon
 
-[TRMF](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction.pdf)
+## Time Series Competitions
 
-[LSTNet](https://www.joinquant.com/view/community/detail/e3e61c8215c113dc8aa459dd52ef6f5c)
+| Competition name | Competition Link | Description |
+|-------------|------------|-------------|
+| [kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic/blob/master/how_it_works.md) | [Link](https://github.com/Arturus/kaggle-web-traffic/blob/master/how_it_works.md) | Time series competition for web traffic. |
+| [optiver-realized-volatility-prediction](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/discussion) | [Link](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/discussion)  | Competition for finance option prediction. |
 
-[large-scale-user-visits-understanding-and-forecasting-with-deep-spatial-tem](https://www.kdd.org/kdd2019/accepted-papers/view/large-scale-user-visits-understanding-and-forecasting-with-deep-spatial-tem)
 
-## Book
+## Time Series Datasets
+
+| Dataset Name | Dataset Link | Description |
+|--------------|--------------|-------------|
+| [UCI Time Series Data Repository](https://archive.ics.uci.edu/ml/datasets/Time+Series+Classification) | [Link](https://archive.ics.uci.edu/ml/datasets/Time+Series+Classification) | A collection of time series datasets for classification tasks. |
+| [M4 Competition](https://www.m4.unic.ac.cy/the-dataset/) | [Link](https://www.m4.unic.ac.cy/the-dataset/) | Large-scale time series forecasting competition dataset. |
+| [Yahoo Webscope](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s) | [Link](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s) | Diverse time series datasets from Yahoo. |
+| [Electricity Consumption](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014) | [Link](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014) | Time series data of electricity consumption in households. |
+
+
+## Time Series Books
 
 [Forecasting: principles and practice](https://otexts.com/fppcn/what-can-be-forecast.html)
+
+## Contributing
+
+If you have any additional resources or suggestions to improve this repository, feel free to [create an issue](https://github.com/yourusername/time-series-project/issues) or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
