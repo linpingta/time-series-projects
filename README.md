@@ -57,7 +57,7 @@ Welcome to the Time Series Project! This repository serves as a curated director
 | [TRMF: A Collaborative Filtering Approach with Temporal Regularized Matrix Factorization](https://www.cs.utexas.edu/~rofuyu/papers/tr-mf-nips.pdf) | [PDF](https://www.cs.utexas.edu/~rofuyu/papers/tr-mf-nips.pdf) | Temporal Regularized Matrix Factorization for time series prediction. |
 | [Time Series Anomaly Detection: A Survey](https://arxiv.org/abs/2009.08036) | [PDF](https://arxiv.org/abs/2009.08036) | A comprehensive survey of time series anomaly detection techniques. |
 | [Large-Scale User Visits Understanding and Forecasting with Deep Spatial-Temporal Decomposition](https://arxiv.org/abs/2007.09545) | [PDF](https://arxiv.org/abs/2007.09545) | A study on understanding and forecasting user visits using deep spatial-temporal decomposition. |
-| [A DECODER-ONLY FOUNDATION MODEL FOR TIME-SERIES FORECASTING]([https://arxiv.org/abs/2009.08036](https://arxiv.org/pdf/2310.10688)) | [PDF]([https://arxiv.org/abs/2009.08036](https://arxiv.org/pdf/2310.10688)) | A introduction about zero-shot prediction. |
+| [A DECODER-ONLY FOUNDATION MODEL FOR TIME-SERIES FORECASTING](https://arxiv.org/pdf/2310.10688) | [PDF](https://arxiv.org/abs/2009.08036](https://arxiv.org/pdf/2310.10688) | A introduction about zero-shot prediction. |
 
 
 ## Time Series Competitions
